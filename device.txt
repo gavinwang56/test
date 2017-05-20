@@ -1,0 +1,140 @@
+ 
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:22:54","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:23:02","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:22:54","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:23:28","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:23:28","Value":"1"},{"At":"2017-05-17 16:23:28","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:23:37","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:23:28","Value":"1"},{"At":"2017-05-17 16:23:28","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:23:38","Value":"1"},{"At":"2017-05-17 16:23:40","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:00","Value":"1"},{"At":"2017-05-17 16:24:03","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:07","Value":"1"},{"At":"2017-05-17 16:24:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:11","Value":"1"},{"At":"2017-05-17 16:24:12","Value":"1"},{"At":"2017-05-17 16:24:14","Value":"1"},{"At":"2017-05-17 16:24:15","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:17","Value":"1"},{"At":"2017-05-17 16:24:18","Value":"1"},{"At":"2017-05-17 16:24:19","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:24:22","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:53","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:24:22","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:24:54","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:24:58","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:02","Value":"1"},{"At":"2017-05-17 16:25:02","Value":"1"},{"At":"2017-05-17 16:25:03","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:24:58","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:08","Value":"1"},{"At":"2017-05-17 16:25:09","Value":"1"},{"At":"2017-05-17 16:25:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:25:13","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:25:13","Value":"1"},{"At":"2017-05-17 16:25:13","Value":"0"},{"At":"2017-05-17 16:25:38","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:47","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:25:13","Value":"1"},{"At":"2017-05-17 16:25:13","Value":"0"},{"At":"2017-05-17 16:25:38","Value":"1"},{"At":"2017-05-17 16:25:38","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:50","Value":"1"},{"At":"2017-05-17 16:25:51","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:58","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:58","Value":"1"},{"At":"2017-05-17 16:25:59","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:25:58","Value":"1"},{"At":"2017-05-17 16:25:59","Value":"1"},{"At":"2017-05-17 16:26:02","Value":"1"},{"At":"2017-05-17 16:26:04","Value":"1"},{"At":"2017-05-17 16:26:05","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:06","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:09","Value":"1"},{"At":"2017-05-17 16:26:10","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:11","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:12","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:12","Value":"1"},{"At":"2017-05-17 16:26:14","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:26:12","Value":"1"},{"At":"2017-05-17 16:26:14","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:26:54","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:26:54","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:27:38","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:26:54","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:28:43","Value":"1"},{"At":"2017-05-17 16:28:45","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:28:47","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:29:02","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:29:05","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:29:22","Value":"1"},{"At":"2017-05-17 16:29:24","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:29:45","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:29:54","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:29:54","Value":"1"},{"At":"2017-05-17 16:29:54","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:30:26","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:29:54","Value":"1"},{"At":"2017-05-17 16:29:54","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:30:32","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:30:48","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:32:12","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:32:12","Value":"1"},{"At":"2017-05-17 16:32:12","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:32:12","Value":"1"},{"At":"2017-05-17 16:32:12","Value":"0"},{"At":"2017-05-17 16:32:32","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:32:12","Value":"1"},{"At":"2017-05-17 16:32:12","Value":"0"},{"At":"2017-05-17 16:32:32","Value":"1"},{"At":"2017-05-17 16:32:32","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:33:57","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:32:12","Value":"1"},{"At":"2017-05-17 16:32:12","Value":"0"},{"At":"2017-05-17 16:32:32","Value":"1"},{"At":"2017-05-17 16:32:32","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:34:00","Value":"1"},{"At":"2017-05-17 16:34:02","Value":"1"},{"At":"2017-05-17 16:34:02","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:34:07","Value":"1"},{"At":"2017-05-17 16:34:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:34:11","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:34:23","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:34:23","Value":"1"},{"At":"2017-05-17 16:34:23","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:35:20","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:34:23","Value":"1"},{"At":"2017-05-17 16:34:23","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:35:26","Value":"1"},{"At":"2017-05-17 16:35:27","Value":"1"},{"At":"2017-05-17 16:35:27","Value":"1"},{"At":"2017-05-17 16:35:29","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:35:58","Value":"1"},{"At":"2017-05-17 16:35:58","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:36:03","Value":"1"},{"At":"2017-05-17 16:36:04","Value":"1"},{"At":"2017-05-17 16:36:05","Value":"1"},{"At":"2017-05-17 16:36:06","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:36:22","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:36:24","Value":"1"},{"At":"2017-05-17 16:36:25","Value":"1"},{"At":"2017-05-17 16:36:28","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:36:33","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:36:39","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:36:44","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:36:39","Value":"1"},{"At":"2017-05-17 16:36:39","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:37:15","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:37:15","Value":"1"},{"At":"2017-05-17 16:37:16","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:37:15","Value":"1"},{"At":"2017-05-17 16:37:16","Value":"1"},{"At":"2017-05-17 16:37:18","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:37:32","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:37:47","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:37:47","Value":"1"},{"At":"2017-05-17 16:37:47","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:38:11","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:37:47","Value":"1"},{"At":"2017-05-17 16:37:47","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:38:12","Value":"1"},{"At":"2017-05-17 16:38:14","Value":"1"},{"At":"2017-05-17 16:38:15","Value":"1"},{"At":"2017-05-17 16:38:16","Value":"1"},{"At":"2017-05-17 16:38:17","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 16:38:21","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:38:30","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:38:30","Value":"1"},{"At":"2017-05-17 16:38:30","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:00:42","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:38:30","Value":"1"},{"At":"2017-05-17 16:38:30","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:00:42","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 16:38:30","Value":"1"},{"At":"2017-05-17 16:38:30","Value":"0"},{"At":"2017-05-17 17:00:46","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:00:46","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:00:46","Value":"0"},{"At":"2017-05-17 17:02:09","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:00:46","Value":"0"},{"At":"2017-05-17 17:02:09","Value":"1"},{"At":"2017-05-17 17:02:09","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:02:58","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:03:07","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:03:07","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:03:45","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:03:07","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:03:47","Value":"1"},{"At":"2017-05-17 17:03:48","Value":"1"},{"At":"2017-05-17 17:03:51","Value":"1"},{"At":"2017-05-17 17:03:51","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:03:54","Value":"1"},{"At":"2017-05-17 17:03:56","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:07:25","Value":"1"},{"At":"2017-05-17 17:07:29","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:07:57","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:07:57","Value":"1"},{"At":"2017-05-17 17:07:57","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:08:53","Value":"1"},{"At":"2017-05-17 17:08:54","Value":"1"},{"At":"2017-05-17 17:08:55","Value":"1"},{"At":"2017-05-17 17:08:57","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:07:57","Value":"1"},{"At":"2017-05-17 17:07:57","Value":"0"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:09:07","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:09:17","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:09:23","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:09:28","Value":"1"},{"At":"2017-05-17 17:09:29","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:09:45","Value":"1"}]}]}
+	 {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:09:51","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:09:51","Value":"1"},{"At":"2017-05-17 17:09:51","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:21:27","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:09:51","Value":"1"},{"At":"2017-05-17 17:09:51","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:21:30","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"},{"At":"2017-05-17 17:23:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"},{"At":"2017-05-17 17:23:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"},{"At":"2017-05-17 17:23:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:27:55","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"},{"At":"2017-05-17 17:23:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:27:55","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:23:25","Value":"1"},{"At":"2017-05-17 17:23:25","Value":"0"},{"At":"2017-05-17 17:28:01","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:28:01","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:28:01","Value":"0"},{"At":"2017-05-17 17:37:43","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:28:01","Value":"0"},{"At":"2017-05-17 17:37:43","Value":"1"},{"At":"2017-05-17 17:37:43","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:43:59","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:44:04","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:44:35","Value":"1"},{"At":"2017-05-17 17:44:36","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:44:40","Value":"1"},{"At":"2017-05-17 17:44:43","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:44:45","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:45:02","Value":"1"},{"At":"2017-05-17 17:45:04","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:45:17","Value":"1"},{"At":"2017-05-17 17:45:19","Value":"1"},{"At":"2017-05-17 17:45:22","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:45:25","Value":"1"},{"At":"2017-05-17 17:45:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:45:37","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:45:42","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:45:48","Value":"1"},{"At":"2017-05-17 17:45:51","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:46:04","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:46:22","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:46:26","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:46:58","Value":"1"},{"At":"2017-05-17 17:46:59","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:48:19","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:48:51","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:48:51","Value":"1"},{"At":"2017-05-17 17:48:51","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:50:39","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:48:51","Value":"1"},{"At":"2017-05-17 17:48:51","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:50:59","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:50:59","Value":"1"},{"At":"2017-05-17 17:50:59","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:50:59","Value":"1"},{"At":"2017-05-17 17:50:59","Value":"0"},{"At":"2017-05-17 17:51:25","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:50:59","Value":"1"},{"At":"2017-05-17 17:50:59","Value":"0"},{"At":"2017-05-17 17:51:25","Value":"1"},{"At":"2017-05-17 17:51:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:51:59","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:50:59","Value":"1"},{"At":"2017-05-17 17:50:59","Value":"0"},{"At":"2017-05-17 17:51:25","Value":"1"},{"At":"2017-05-17 17:51:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:52:01","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:52:07","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:52:25","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:52:25","Value":"1"},{"At":"2017-05-17 17:52:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:53:51","Value":"1"}]},{"PropertyCode":"2","Data":[{"At":"2017-05-17 17:52:25","Value":"1"},{"At":"2017-05-17 17:52:25","Value":"0"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:56:23","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:56:23","Value":"1"},{"At":"2017-05-17 17:56:26","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:56:23","Value":"1"},{"At":"2017-05-17 17:56:26","Value":"1"},{"At":"2017-05-17 17:56:39","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"1","Data":[{"At":"2017-05-17 17:58:26","Value":"1"},{"At":"2017-05-17 17:58:29","Value":"1"},{"At":"2017-05-17 17:58:30","Value":"1"}]}]}
+	: {"UUID":"845dd7401679","SensorData":[{"PropertyCode":"2","Data":[{"At":"2017-05-17 18:00:19","Value":"1"}]}]}
